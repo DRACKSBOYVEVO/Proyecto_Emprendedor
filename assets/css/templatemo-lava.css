@@ -131,7 +131,7 @@ a.main-button-slider {
 }
 
 a.main-button-slider:hover {
-  background-color: #7D7777;
+  background-color: rgba(243,65,57,1);
 }
 
 a.main-button {
